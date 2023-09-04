@@ -1,0 +1,3 @@
+
+### Week 4
+This week will introduce you to the data sets for your projects.  We have a choice of three, which were intorudced at the beginning ofhe course.  By now you should have picked which want to work with.  There will be serparate classes for each dataset where the biology behind the data will be explained and you will divide into groups for your projects.  In the second calss I will give a presentaion on formaulting and testing hypotheses with big data sets and you will discuss what questions your group would like to work on.

@@ -1,3 +1,3 @@
 
 ### Week 10
-Final Week!  This week you will present your posters at a meeting at the Bayes Institute.  You will get a chance to see what the other groups have been up to and asess each other's work.  The final piece of portfolio assessment is also due in
+Final Week!  We begin wiht eht class test.  An hour for you to work thoguh a data analyssi task, anser a few questions about it and produce a graph.  Once that's out of the way yu have the rest f te session to do final prep for your posters before presenting them on Friday. You will get a chance to see what the other groups have been up to and assess each other's work.  The final piece of portfolio assessment is also due in.  

@@ -14,7 +14,7 @@ Class 1 timetable:
 
 3:05pm - 3:15 short break
 
-3:15 Class Quiz (not assessed!  Learning to use Wooclap)
+3:15 Class Quiz (not assessed!)
 
 3:45 - Data Entry and analysis exercise - Head diameter and coding recall
 
